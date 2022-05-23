@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daan</h1>
 <h3 align="center">A Data science and Artificial Intelligence student at Maastricht University</h3>
 
-- 🔭 I’m currently working on [a multi-agent surveillance simulation](https://github.com/DaanSchar/MultiAgentSurveillance)
+- 🔭 I’m currently working on a[Multi-agent Surveillance Simulation](https://github.com/DaanSchar/MultiAgentSurveillance)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/)
 
 - 📫 You can reach me at **Daan.Schaer@Gmail.com**
 
