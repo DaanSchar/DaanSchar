@@ -88,8 +88,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daanschar&show_icons=true&locale=en&layout=compact" alt="daanschar" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daanschar&show_icons=true&locale=en&layout=compact" alt="daanschar" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daanschar&show_icons=true&locale=en" alt="daanschar" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daanschar&show_icons=true&locale=en" alt="daanschar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daanschar&" alt="daanschar" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daanschar&" alt="daanschar" /></p> -->
