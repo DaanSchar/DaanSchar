@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daan</h1>
 <h3 align="center">A Data science and Artificial Intelligence student at Maastricht University</h3>
 
-- 🔭 I’m currently working on a **user-authenticated Backend**
+- 🔭 I’m currently working at **Waterschap Limburg**
 
 - 🌱 I’m currently learning **Spring Boot**
 
